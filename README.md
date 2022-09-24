@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EhSaaNsh
+- 👋 Hi, I’m @Ehsan
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning DNN and CNN
 
