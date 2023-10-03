@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ehsan
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning RNN
+- 👀 I’m Django Developer and interested in AI
+- 🌱 I’m currently learning DRF
 
 <!---
 EhSaaNsh/EhSaaNsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
